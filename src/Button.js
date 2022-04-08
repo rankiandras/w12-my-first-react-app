@@ -1,6 +1,8 @@
+import './Button.css'
+
 function Button() {
     return (
-        <button className="button">Button</button>
+        <button id="button">Button</button>
     )
 };
 

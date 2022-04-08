@@ -1,18 +1,14 @@
-.footer {
+#button {
     position: absolute;
-    display:flex;
-    justify-content: space-around;
-    width: 100%;
-    bottom: 0px;
+    top: 50px;
+    transform: translateX(-50%);
+    width: 200px;
+    height: 80px;
+    border-radius: 70px;
     background-color: cornflowerblue;
     color: white;
+    font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    font-size: 30px;
-}
-
-.ladybug {
-    width: 120px;
-    height: 120px;
 }
